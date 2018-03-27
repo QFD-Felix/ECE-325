@@ -1,0 +1,4 @@
+Z is the super class of U,G,X
+U is the super calss of G,X
+G and X are unrelated
+B is the interface class implemented by X
